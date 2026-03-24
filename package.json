@@ -1,0 +1,23 @@
+{
+  "name": "marketplace",
+  "version": "1.0.0",
+  "description": "esse e um projeto do meu TCC da minha faculdade  onde vou criar um sistema web marketplace para micro empressas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaovkm06/Marketplace.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaovkm06/Marketplace/issues"
+  },
+  "homepage": "https://github.com/joaovkm06/Marketplace#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

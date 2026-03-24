@@ -416,3 +416,14 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+
+
+node_modules/
+.env
+dist/
+build/
+*.log
+.vscode/
+.env.example
+
