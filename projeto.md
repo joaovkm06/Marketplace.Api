@@ -2,7 +2,7 @@
 
 ---
 
-## 👥 Stakeholders
+##  Stakeholders
 
 | Nome                     | Cargo/Papel        | E-mail/Contato                     |
 |--------------------------|-------------------|------------------------------------|
@@ -10,7 +10,7 @@
 
 ---
 
-## 💻 Equipe de Desenvolvimento
+##  Equipe de Desenvolvimento
 
 | Nome                  | Cargo/Papel   | E-mail/Contato                              |
 |-----------------------|--------------|---------------------------------------------|
@@ -18,7 +18,7 @@
 
 ---
 
-## 📌 Resumo do Projeto
+##  Resumo do Projeto
 
 **Nome:**  
  Market
@@ -39,6 +39,8 @@ Facilitar vendas, reduzir custos e promover inclusão digital.
 Com o crescimento do comércio digital, muitas microempresas enfrentam dificuldades para manter uma presença online devido a custos e limitações técnicas. Além disso, podem perder vendas ao não estarem sempre disponíveis para seus clientes.
 
 Diante disso, propõe-se o desenvolvimento de uma plataforma web de marketplace que permita a criação de lojas virtuais de forma simples, acessível e eficiente.
+
+---
 
 ###  Propósito
 
